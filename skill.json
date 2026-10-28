@@ -1,0 +1,15 @@
+{
+  "name": "openclaw-genpark-sentinel",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Sentinel - Real-time sliding window token velocity anomaly detection and adaptive rate-limiting sentinel.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "openclaw",
+    "sentinel",
+    "threat-detection",
+    "rate-limiter",
+    "mcp"
+  ]
+}
